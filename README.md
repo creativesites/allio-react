@@ -1,5 +1,5 @@
-# Project Title
-Allio-React. Deployed to Firebase Hosting for the project autoservice1-wfjfmj.
+# Allio-React. 
+Deployed to Firebase Hosting for the project autoservice1-wfjfmj.
 ## Description
 A React client with Add and view functionality for the following:
 * Advisors
@@ -35,3 +35,6 @@ To Deploy to Firebase
 * The backend uses the backup codes to authenticate with Namecheap.
 * Each of the backup codes is used only once, so when they are all used up, you can regenerate new codes and add them.
 * To regenerate go to: Profile → Security →  Two-Factor Authentication -> Backup Codes --> REGENERATE BACKUP CODES
+
+* Whem creating emails. Add the domain as well in the following format:
+- example.com
