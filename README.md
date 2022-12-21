@@ -16,15 +16,15 @@ username: bena
 pwd: Allio12@
 
 ## Getting Started
-``` npm install
+``` npm install ```
 
 To Run
 
-``` npm start
+``` npm start ```
 
 To Deploy to Firebase
 
-``` firebase deploy
+``` firebase deploy ```
 
 
 ### Create Email
